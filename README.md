@@ -21,5 +21,5 @@ Follow these steps to set up the development environment and install the necessa
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/language-project.git
-   cd language-project
+   git clone https://github.com/muiyuroandrew/cg_cat.git
+   cd cg_cat
